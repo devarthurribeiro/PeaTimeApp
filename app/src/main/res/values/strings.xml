@@ -3,4 +3,5 @@
     <string name="title_home">Home</string>
     <string name="title_dashboard">Times</string>
     <string name="title_notifications">Camera</string>
+    <string name="title_about">About</string>
 </resources>
