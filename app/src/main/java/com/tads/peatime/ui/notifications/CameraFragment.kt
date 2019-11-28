@@ -8,6 +8,7 @@ import android.view.ViewGroup
 import android.webkit.PermissionRequest
 import android.webkit.WebChromeClient
 import android.webkit.WebSettings
+import android.webkit.WebView
 import android.widget.TextView
 import androidx.annotation.RequiresApi
 import androidx.fragment.app.Fragment
@@ -20,6 +21,7 @@ import kotlinx.android.synthetic.main.fragment_notifications.view.*
 class NotificationsFragment : Fragment() {
 
     private lateinit var notificationsViewModel: NotificationsViewModel
+    private lateinit var wbv:WebView;
 
     override fun onCreateView(
         inflater: LayoutInflater,
@@ -44,12 +46,13 @@ class NotificationsFragment : Fragment() {
                 }
             }
         }
+        wbv = root.wb
         root.wb.loadUrl("https://pet-eat-time.herokuapp.com/")
         return root
     }
 
-    override fun onStop() {
-        super.onStop()
-        wb.evaluateJavascript("if(window.localStream){window.localStream.stop();}", null);
+    override fun onDestroy() {
+        super.onDestroy()
+        wbv.destroy()
     }
 }
