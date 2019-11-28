@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">PeaTime</string>
+    <string name="title_dashboard">Horários</string>
+    <string name="title_home">Início</string>
+    <string name="title_notifications">Câmera</string>
+</resources>
