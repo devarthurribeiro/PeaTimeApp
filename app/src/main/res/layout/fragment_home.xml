@@ -69,10 +69,10 @@
                     android:layout_height="match_parent">
 
                     <ImageView
-                        android:layout_width="60dp"
+                        android:layout_width="40dp"
                         android:layout_alignParentRight="true"
                         android:layout_height="40dp"
-                        android:src="@drawable/dog"></ImageView>
+                        android:src="@drawable/ic_pets_black_24dp"></ImageView>
                 </RelativeLayout>
             </LinearLayout>
 
