@@ -31,10 +31,7 @@ class NotificationsFragment : Fragment() {
         notificationsViewModel =
             ViewModelProviders.of(this).get(NotificationsViewModel::class.java)
         val root = inflater.inflate(R.layout.fragment_notifications, container, false)
-        val textView: TextView = root.findViewById(R.id.text_notifications)
-        notificationsViewModel.text.observe(this, Observer {
-            textView.text = it
-        })
+
         root.wb.settings.javaScriptEnabled = true
         root.wb.settings.pluginState = WebSettings.PluginState.ON
         root.wb.settings.mediaPlaybackRequiresUserGesture = false
