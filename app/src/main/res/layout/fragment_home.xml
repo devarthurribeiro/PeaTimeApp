@@ -30,7 +30,7 @@
 
     <androidx.cardview.widget.CardView
         android:layout_width="match_parent"
-        android:layout_height="200dp"
+        android:layout_height="120dp"
         android:layout_marginLeft="16dp"
         android:layout_marginRight="16dp"
         android:layout_marginBottom="26dp"
@@ -171,7 +171,7 @@
                         android:id="@+id/textView7"
                         android:layout_width="match_parent"
                         android:layout_height="wrap_content"
-                        android:text="Humidade"
+                        android:text="Umidade"
                         android:textSize="16sp"
                         android:layout_marginBottom="16dp"
                         android:textStyle="bold" />
