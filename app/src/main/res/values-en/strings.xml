@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">PeaTime</string>
     <string name="acompanhe_seu_pet">Track Your Pet</string>
     <string name="alunos">Students</string>
     <string name="aplica_o_desenvolvido_para_as_de_mc_e_pdm">Application developed for the disciplines of PDM and MC</string>
@@ -17,4 +16,5 @@
     <string name="title_notifications">Camera</string>
     <string name="toresmo">Tourresmo</string>
     <string name="umidade">Humidity</string>
+    <string name="btn_feed">Feed</string>
 </resources>

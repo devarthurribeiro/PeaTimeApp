@@ -19,4 +19,5 @@
     <string name="aplica_o_desenvolvido_para_as_de_mc_e_pdm">Aplicação desenvolvida para as disciplinas de MC e PDM</string>
     <string name="alunos">ALUNOS</string>
     <string name="arthur_ribeiro_e_pedro_ricardo" translatable="false">Arthur Ribeiro e Pedro Ricardo</string>
+    <string name="btn_feed">Feed</string>
 </resources>

@@ -30,7 +30,7 @@
 
     <androidx.cardview.widget.CardView
         android:layout_width="match_parent"
-        android:layout_height="120dp"
+        android:layout_height="150dp"
         android:layout_marginLeft="16dp"
         android:layout_marginRight="16dp"
         android:layout_marginBottom="26dp"
@@ -43,7 +43,7 @@
 
             <LinearLayout
                 android:layout_width="wrap_content"
-                android:layout_height="match_parent"
+                android:layout_height="81dp"
                 android:layout_marginLeft="26dp"
                 android:layout_marginRight="26dp"
                 android:orientation="horizontal">
@@ -61,22 +61,30 @@
                         android:text="@string/toresmo"
                         android:textSize="30sp"
                         android:textStyle="bold" />
+
                 </LinearLayout>
 
                 <RelativeLayout
                     android:layout_width="match_parent"
-                    android:layout_marginTop="16dp"
-                    android:layout_height="match_parent">
+                    android:layout_height="match_parent"
+                    android:layout_marginTop="16dp">
 
                     <ImageView
                         android:layout_width="40dp"
-                        android:layout_alignParentRight="true"
                         android:layout_height="40dp"
+                        android:layout_alignParentRight="true"
                         android:src="@drawable/ic_pets_black_24dp"></ImageView>
                 </RelativeLayout>
             </LinearLayout>
 
-
+            <Button
+                android:id="@+id/btnFeed"
+                android:layout_marginLeft="26dp"
+                android:layout_marginRight="26dp"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:background="@color/colorPrimary"
+                android:text="@string/btn_feed" />
         </LinearLayout>
     </androidx.cardview.widget.CardView>
 

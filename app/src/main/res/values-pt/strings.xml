@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">PeaTime</string>
     <string name="title_dashboard">Horários</string>
     <string name="title_home">Início</string>
     <string name="title_notifications">Câmera</string>
@@ -17,4 +16,5 @@
     <string name="temperatura">Temperature</string>
     <string name="toresmo">Torresmo</string>
     <string name="umidade">Humidity</string>
+    <string name="btn_feed">Alimentar</string>
 </resources>
