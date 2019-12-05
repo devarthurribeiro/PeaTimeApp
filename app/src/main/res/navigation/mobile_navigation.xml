@@ -13,7 +13,7 @@
 
     <fragment
         android:id="@+id/navigation_dashboard"
-        android:name="com.tads.peatime.ui.dashboard.TimesFragment"
+        android:name="com.tads.peatime.ui.times.TimesFragment"
         android:label="@string/title_dashboard"
         tools:layout="@layout/fragment_times" />
 

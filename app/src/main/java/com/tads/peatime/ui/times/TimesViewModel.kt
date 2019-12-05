@@ -1,4 +1,4 @@
-package com.tads.peatime.ui.dashboard
+package com.tads.peatime.ui.times
 
 import androidx.lifecycle.LiveData
 import androidx.lifecycle.MutableLiveData
