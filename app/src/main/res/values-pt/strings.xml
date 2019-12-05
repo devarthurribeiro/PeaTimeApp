@@ -5,4 +5,16 @@
     <string name="title_home">Início</string>
     <string name="title_notifications">Câmera</string>
     <string name="title_about">Sobre</string>
+    <string name="acompanhe_seu_pet">Acompanhe o seu Pet</string>
+    <string name="alunos">Alunos</string>
+    <string name="aplica_o_desenvolvido_para_as_de_mc_e_pdm">Aplicação desenvolvida para as disciplinas de MC e PDM</string>
+    <string name="c_mera">Camera</string>
+    <string name="hor_rios">Horários</string>
+    <string name="oi_arthur">Olá, Arthur!!</string>
+    <string name="salvar">Salvar</string>
+    <string name="sobre">SOBRE</string>
+    <string name="status_ambiente">Informações do Ambiente</string>
+    <string name="temperatura">Temperature</string>
+    <string name="toresmo">Torresmo</string>
+    <string name="umidade">Humidity</string>
 </resources>

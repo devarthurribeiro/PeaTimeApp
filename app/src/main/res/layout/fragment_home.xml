@@ -13,7 +13,7 @@
         android:layout_marginLeft="26dp"
         android:layout_marginRight="26dp"
         android:layout_marginBottom="0dp"
-        android:text="Oi Arthur!"
+        android:text="@string/oi_arthur"
         android:textSize="24sp"
         android:textStyle="bold" />
 
@@ -25,7 +25,7 @@
         android:layout_marginRight="26dp"
         android:layout_marginBottom="26dp"
         android:textColor="@color/subTitle"
-        android:text="Acompanhe seu pet:"
+        android:text="@string/acompanhe_seu_pet"
         android:textSize="12sp" />
 
     <androidx.cardview.widget.CardView
@@ -58,7 +58,7 @@
                         android:id="@+id/textView"
                         android:layout_width="match_parent"
                         android:layout_height="wrap_content"
-                        android:text="Toresmo"
+                        android:text="@string/toresmo"
                         android:textSize="30sp"
                         android:textStyle="bold" />
                 </LinearLayout>
@@ -87,7 +87,7 @@
         android:layout_marginLeft="26dp"
         android:layout_marginRight="26dp"
         android:layout_marginBottom="16dp"
-        android:text="Status ambiente"
+        android:text="@string/status_ambiente"
         android:textColor="@color/subTitle"
         android:textStyle="bold"
         android:textSize="18sp" />
@@ -127,7 +127,7 @@
                         android:id="@+id/textView6"
                         android:layout_width="match_parent"
                         android:layout_height="wrap_content"
-                        android:text="Temperatura"
+                        android:text="@string/temperatura"
                         android:textSize="16sp"
                         android:layout_marginBottom="16dp"
                         android:textStyle="bold" />
@@ -135,7 +135,7 @@
                         android:layout_width="match_parent"
                         android:layout_height="wrap_content"
                         android:textColor="@color/subTitle"
-                        android:text="23 Cº"
+                        android:text="@string/_23_c"
                         android:textSize="12sp" />
                 </LinearLayout>
             </LinearLayout>
@@ -171,7 +171,7 @@
                         android:id="@+id/textView7"
                         android:layout_width="match_parent"
                         android:layout_height="wrap_content"
-                        android:text="Umidade"
+                        android:text="@string/umidade"
                         android:textSize="16sp"
                         android:layout_marginBottom="16dp"
                         android:textStyle="bold" />
@@ -179,7 +179,7 @@
                         android:layout_width="match_parent"
                         android:layout_height="wrap_content"
                         android:textColor="@color/subTitle"
-                        android:text="70%"
+                        android:text="@string/_70"
                         android:textSize="12sp" />
                 </LinearLayout>
             </LinearLayout>

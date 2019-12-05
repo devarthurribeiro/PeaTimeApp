@@ -1,7 +1,22 @@
 <resources>
-    <string name="app_name">PeaTime</string>
+    <string name="app_name" translatable="false">PeaTime</string>
     <string name="title_home">Home</string>
     <string name="title_dashboard">Times</string>
     <string name="title_notifications">Camera</string>
     <string name="title_about">About</string>
+    <string name="oi_arthur">Olá, Arthur!!</string>
+    <string name="status_ambiente">Informações do Ambiente</string>
+    <string name="acompanhe_seu_pet">Acompanhe seu Pet</string>
+    <string name="toresmo">Torresmo</string>
+    <string name="temperatura">Temperatura</string>
+    <string name="_23_c" translatable="false">23 Cº</string>
+    <string name="umidade">Umidade</string>
+    <string name="_70" translatable="false">70%</string>
+    <string name="hor_rios">Horários</string>
+    <string name="salvar">Salvar</string>
+    <string name="c_mera">Câmera</string>
+    <string name="sobre">SOBRE</string>
+    <string name="aplica_o_desenvolvido_para_as_de_mc_e_pdm">Aplicação desenvolvida para as disciplinas de MC e PDM</string>
+    <string name="alunos">ALUNOS</string>
+    <string name="arthur_ribeiro_e_pedro_ricardo" translatable="false">Arthur Ribeiro e Pedro Ricardo</string>
 </resources>

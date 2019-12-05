@@ -13,7 +13,7 @@
         android:layout_marginLeft="26dp"
         android:layout_marginRight="26dp"
         android:layout_marginBottom="26dp"
-        android:text="Câmera"
+        android:text="@string/c_mera"
         android:textSize="24sp"
         android:textStyle="bold" />
 

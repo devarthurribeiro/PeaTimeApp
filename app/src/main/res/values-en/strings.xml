@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">PeaTime</string>
+    <string name="acompanhe_seu_pet">Track Your Pet</string>
+    <string name="alunos">Students</string>
+    <string name="aplica_o_desenvolvido_para_as_de_mc_e_pdm">Application developed for the disciplines of PDM and MC</string>
+    <string name="c_mera">Camera</string>
+    <string name="hor_rios">Schedules</string>
+    <string name="oi_arthur">Hi, Arthur!!</string>
+    <string name="salvar">Save</string>
+    <string name="sobre">ABOUT</string>
+    <string name="status_ambiente">Environment Information</string>
+    <string name="temperatura">Temperarute</string>
+    <string name="title_about">About</string>
+    <string name="title_dashboard">Times</string>
+    <string name="title_home">Home</string>
+    <string name="title_notifications">Camera</string>
+    <string name="toresmo">Tourresmo</string>
+    <string name="umidade">Humidity</string>
+</resources>
