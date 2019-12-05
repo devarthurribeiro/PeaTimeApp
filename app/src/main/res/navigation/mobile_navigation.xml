@@ -15,19 +15,19 @@
         android:id="@+id/navigation_dashboard"
         android:name="com.tads.peatime.ui.dashboard.TimesFragment"
         android:label="@string/title_dashboard"
-        tools:layout="@layout/fragment_dashboard" />
+        tools:layout="@layout/fragment_times" />
 
     <fragment
         android:id="@+id/navigation_notifications"
         android:name="com.tads.peatime.ui.notifications.NotificationsFragment"
         android:label="@string/title_notifications"
-        tools:layout="@layout/fragment_notifications" />
+        tools:layout="@layout/fragment_camera" />
 
     <fragment
         android:id="@+id/navigation_about"
         android:name="com.tads.peatime.ui.about.AboutFragment"
         android:label="@string/title_notifications"
-        tools:layout="@layout/fragment_notifications" />
+        tools:layout="@layout/fragment_camera" />
 
 
 </navigation>
