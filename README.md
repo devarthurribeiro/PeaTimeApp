@@ -1,4 +1,4 @@
-# PeaTimeApp
+# PeaTimeApp :dog: :heart:
 
 Monitor the quality of the environment and feed your pet from anywhere.
 
